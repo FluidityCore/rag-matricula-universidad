@@ -106,4 +106,4 @@ a uno de mayor calidad.
 ## Autor
 
 Trabajo individual — repositorio con la solución completa:
-`<ENLACE_GITHUB>` (se completa tras publicar el repositorio).
+https://github.com/FluidityCore/rag-matricula-universidad
