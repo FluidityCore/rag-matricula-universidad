@@ -1,0 +1,42 @@
+[
+  {
+    "fuente": "fechas_academicas.txt",
+    "texto": "CALENDARIO ACADÉMICO - PERIODO 2026-II\nUniversidad Ejemplo - Oficina de Registros Académicos\n\n1. MATRÍCULA REGULAR\n   Inicio: 10 de agosto de 2026\n   Fin: 21 de agosto de 2026\n\n2. RESERVA DE MATRÍCULA\n   Plazo de solicitud ordinario: del 10 al 21 de agosto de 2026\n   Plazo de solicitud extraordinario (con recargo): del 24 al 28 de agosto\n   de 2026\n   La solicitud fuera de estos plazos no será atendida, salvo casos de\n   fuerza mayor debidamente sustentados ante la Dirección de Escuela.\n\n3. RECTIFICACIÓN Y ACTUALIZACIÓN DE MATRÍCULA\n   Del 24 al 28 de agosto de 2026"
+  },
+  {
+    "fuente": "fechas_academicas.txt",
+    "texto": "4. INICIO DE CLASES\n   1 de setiembre de 2026\n\n5. PAGO DE TASA POR RESERVA DE MATRÍCULA\n   La tasa administrativa de reserva de matrícula debe cancelarse antes de\n   registrar la solicitud en el portal virtual. El monto vigente se publica\n   en el Tarifario de Tasas Educativas del periodo correspondiente.\n\n6. REINCORPORACIÓN\n   Trámite disponible del 1 al 15 de julio de 2026, para estudiantes que\n   agotaron su periodo máximo de reserva."
+  },
+  {
+    "fuente": "reglamento_matricula.txt",
+    "texto": "REGLAMENTO GENERAL DE MATRÍCULA\nUniversidad Ejemplo - Vicerrectorado Académico\n\nCAPÍTULO I: DISPOSICIONES GENERALES\n\nArtículo 1.- La matrícula es el acto formal mediante el cual el estudiante\nadquiere la condición de matriculado en un periodo académico determinado,\nprevio cumplimiento de los requisitos académicos, administrativos y\nfinancieros establecidos por la universidad.\n\nArtículo 2.- El proceso de matrícula comprende dos modalidades: matrícula\nregular y reserva de matrícula.\n\nCAPÍTULO II: RESERVA DE MATRÍCULA"
+  },
+  {
+    "fuente": "reglamento_matricula.txt",
+    "texto": "Artículo 10.- La reserva de matrícula es el derecho que tiene el estudiante\nregular de suspender temporalmente sus estudios, manteniendo su vacante,\npor un periodo no mayor a cuatro (4) semestres académicos consecutivos o\nalternos."
+  },
+  {
+    "fuente": "reglamento_matricula.txt",
+    "texto": "Artículo 11.- Requisitos para reserva de matrícula:\na) Ser estudiante regular con matrícula vigente o haber estado matriculado\n   en el periodo académico inmediato anterior.\nb) Presentar la solicitud de reserva de matrícula a través del portal\n   virtual de trámites, dentro de los plazos establecidos en el calendario\n   académico.\nc) No registrar deudas pendientes por concepto de pensiones o derechos\n   académicos al momento de la solicitud.\nd) Adjuntar el pago de la tasa administrativa por derecho de reserva de\n   matrícula, según el monto vigente publicado por Tesorería.\ne) No haber excedido el límite máximo de reservas consecutivas (2 periodos)\n   ni el límite total de reservas durante la carrera (4 periodos).\nf) En caso de reserva por motivos de salud, adjuntar certificado médico\n   original o copia legalizada."
+  },
+  {
+    "fuente": "reglamento_matricula.txt",
+    "texto": "Artículo 12.- La solicitud de reserva de matrícula será evaluada por la\nOficina de Registros Académicos en un plazo máximo de cinco (5) días\nhábiles. La resolución será notificada al correo institucional del\nestudiante.\n\nArtículo 13.- El estudiante que no renueve su matrícula ni solicite reserva\ndentro de los plazos establecidos perderá automáticamente su condición de\nestudiante regular, debiendo tramitar reincorporación.\n\nCAPÍTULO III: REQUISITOS GENERALES PARA MATRÍCULA REGULAR"
+  },
+  {
+    "fuente": "reglamento_matricula.txt",
+    "texto": "Artículo 20.- Para matricularse en un periodo académico regular, el\nestudiante debe:\na) No tener impedimento académico ni disciplinario vigente.\nb) Haber cancelado la pensión de matrícula o encontrarse dentro de un plan\n   de fraccionamiento aprobado.\nc) Completar la ficha de matrícula en el sistema virtual dentro de las\n   fechas establecidas en el calendario académico.\nd) Contar con el visto bueno del tutor o coordinador académico de su\n   escuela profesional."
+  },
+  {
+    "fuente": "requisitos_reserva_procedimiento.txt",
+    "texto": "GUÍA DE PROCEDIMIENTO: RESERVA DE MATRÍCULA\nUniversidad Ejemplo - Mesa de Partes Virtual\n\nPASO A PASO PARA SOLICITAR LA RESERVA DE MATRÍCULA\n\nPaso 1: Verificar que no existan deudas pendientes en el sistema de\npagos institucional. Si existe deuda, debe regularizarse antes de iniciar\nel trámite.\n\nPaso 2: Ingresar al portal virtual de trámites con el usuario y contraseña\ninstitucional del estudiante.\n\nPaso 3: Seleccionar la opción \"Solicitud de Reserva de Matrícula\" y elegir\nel periodo académico a reservar."
+  },
+  {
+    "fuente": "requisitos_reserva_procedimiento.txt",
+    "texto": "Paso 4: Adjuntar los documentos requeridos según el motivo de la reserva:\n   - Motivo laboral: carta de la empresa o contrato de trabajo vigente.\n   - Motivo de salud: certificado médico.\n   - Motivo personal: declaración jurada simple.\n\nPaso 5: Realizar el pago de la tasa administrativa por derecho de reserva\nde matrícula a través de los canales autorizados (banca por internet,\nagente o caja de la universidad).\n\nPaso 6: Adjuntar el comprobante de pago en el sistema y enviar la\nsolicitud."
+  },
+  {
+    "fuente": "requisitos_reserva_procedimiento.txt",
+    "texto": "Paso 7: Esperar la resolución de la Oficina de Registros Académicos,\nla cual se emite en un plazo máximo de cinco (5) días hábiles y se notifica\nal correo institucional.\n\nIMPORTANTE\nLa reserva de matrícula no exime al estudiante de las obligaciones\neconómicas contraídas en periodos académicos anteriores. El estudiante\nmantiene su vacante y su plan de estudios vigente al momento de\nreincorporarse, siempre que no haya cambios curriculares aprobados por el\nConsejo de Facultad durante el periodo de reserva."
+  }
+]
