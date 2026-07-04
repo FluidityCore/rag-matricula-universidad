@@ -57,8 +57,11 @@ def bloque_codigo(texto: str, estilo: ParagraphStyle, ancho: int = 92) -> Paragr
 
 
 def portada(story: list, e: dict[str, ParagraphStyle]) -> None:
-    story.append(Spacer(1, 4 * cm))
-    story.append(Paragraph("UNIVERSIDAD", e["portada_sub"]))
+    story.append(Spacer(1, 3 * cm))
+    story.append(Paragraph("UNIVERSIDAD PRIVADA ANTENOR ORREGO", e["portada_sub"]))
+    story.append(Paragraph(
+        "Facultad de Ingeniería de Sistemas e Inteligencia Artificial", e["portada_sub"]
+    ))
     story.append(Spacer(1, 1 * cm))
     story.append(Paragraph(
         "Propuesta de Sistema de Búsqueda de Información en Documentos "
@@ -68,8 +71,8 @@ def portada(story: list, e: dict[str, ParagraphStyle]) -> None:
     story.append(Spacer(1, 2 * cm))
     story.append(Paragraph("Trabajo individual — Investigación aplicada", e["portada_sub"]))
     story.append(Spacer(1, 3 * cm))
-    story.append(Paragraph("Autor: [Completar: nombre del estudiante]", e["cuerpo"]))
-    story.append(Paragraph("Curso / Docente: [Completar]", e["cuerpo"]))
+    story.append(Paragraph("Autor: Mostacero Cieza, Luis David", e["cuerpo"]))
+    story.append(Paragraph("Docente: Mendoza Corpus, Carlos Alfredo", e["cuerpo"]))
     story.append(Paragraph("Fecha: 03 de julio de 2026", e["cuerpo"]))
     story.append(Paragraph(f"Repositorio con la solución: {REPO_URL}", e["cuerpo"]))
     story.append(PageBreak())
